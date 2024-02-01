@@ -1,6 +1,6 @@
 # Webpack Template
 
-## This is a webpack template that has been intitially setup as bundle project with the appropriate loaders and dependencies for the following features
+## This is a simple webpack template that has been intitially setup as a bundle project with the appropriate loaders and dependencies for the following features
 
 - images
 - html webpack plugin
